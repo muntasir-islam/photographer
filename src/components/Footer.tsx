@@ -166,7 +166,7 @@ export default function Footer() {
                         © {new Date().getFullYear()} LensCraft. All rights reserved.
                     </p>
                     <p className="flex items-center gap-1 text-sm text-muted-foreground">
-                        Made with <Heart className="w-4 h-4 text-red-500 fill-red-500" /> in NYC
+                        Developed by <Heart className="w-4 h-4 text-red-500 fill-red-500" /> Muntasir Islam
                     </p>
                 </motion.div>
             </div>
