@@ -22,8 +22,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 
 ### Screenshot
-![Home page]('public/home page-photographer.png')
-
+![!\[Home page\]('public/home page-photographer.png')
+](<public/home page-photographer.png>)
 
 
 
